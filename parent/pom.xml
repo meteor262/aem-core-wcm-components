@@ -50,7 +50,7 @@
         <aem.port>4502</aem.port>
         <aem.publish.host>localhost</aem.publish.host>
         <aem.publish.port>4503</aem.publish.port>
-        <aem.contextPath />
+        <aem.contextPath/>
         <sling.user>admin</sling.user>
         <sling.password>admin</sling.password>
         <vault.user>admin</vault.user>
@@ -62,7 +62,7 @@
         <node.version>v10.13.0</node.version>
         <npm.version>6.4.1</npm.version>
         <java.version>11</java.version>
-        <mockitio.version>2.24.5</mockitio.version>
+        <mockitio.version>2.28.2</mockitio.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
     </properties>
